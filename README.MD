@@ -6,7 +6,7 @@
 I think Plan 9 is a really cool OS, and I decided to modify it to my needs.
 
 **Licence**
-9Front is GPL licenced, so that means 9BACK needs to be GPL licenced too.
+[9Front is GPL licenced, so that means 9BACK needs to be GPL licenced too.](https://github.com/puntillol59/9back/blob/master/LICENSE)
 
 **Where can I get the original code?**
 Right [here.](https://code.9front.org/hg/plan9front/)
